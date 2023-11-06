@@ -1,1 +1,2 @@
-# My codes from ALG1
+# 2324ALG1Monday
+Kódy z hodin ALG1 (cvičení pondělí)
