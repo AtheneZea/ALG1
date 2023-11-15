@@ -1,4 +1,4 @@
-package assignents04_sekvence;
+package assignments04_sekvence;
 
 import java.util.Scanner;
 

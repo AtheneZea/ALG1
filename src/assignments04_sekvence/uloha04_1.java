@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package assignents04_sekvence;
+package assignments04_sekvence;
 import java.util.Scanner;
 public class uloha04_1 {
     public static void main(String[] args) {
